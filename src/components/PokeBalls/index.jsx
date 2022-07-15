@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useCallback, useEffect } from "react";
 import { usePoke } from "../../context/pokeStore";
 import { listPokeBalls } from "../../sdk/pokeApi";

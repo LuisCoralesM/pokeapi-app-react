@@ -21,6 +21,7 @@ export const SearchPokemon = () => {
     if (!search || !search.length) {
       dispatch({ type: "SET_POKEMON_DETAILS", args: undefined });
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [search]);
 
   return (
