@@ -9,7 +9,7 @@ const navigation = {
 
       {
         name: 'GitHub',
-        href: 'https://github.com/DanielEspinoza13a/Poke-Api-React-App',
+        href: 'https://github.com/LuisCoralesM/pokeapi-app-react',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
