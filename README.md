@@ -21,3 +21,7 @@ Assuming you already have downloaded Node.JS and NPM: Clone or download the code
 Wait for the package installation.
 
 `npm start`
+
+## Recommended videos
+
+[Contexts in React by midudev](https://www.youtube.com/watch?v=2qgs7buSnHQ)
